@@ -1,0 +1,4 @@
+Vehiculo: lght-95
+Edad Cliente: edad = 52
+Fecha Venta: 01022020
+Nombre de Venta: bgbgbgbg
